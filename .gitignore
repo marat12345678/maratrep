@@ -1,0 +1,12 @@
+# Python-кэш и виртуальное окружение
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Allure-отчёты
+allure-results/
+allure-report/
+
+# Настройки PyCharm
+.idea/
